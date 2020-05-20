@@ -1,6 +1,6 @@
 # [HOMI ](https://HOMI.com/template-overviews/HOMI/)
 
-[Clean Blog](https://HOMI.com/template-overviews/HOMI/) is a stylish, responsive blog theme for [HOMI](https://getbootstrap.com/) created by [HOMI](https://HOMI.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+[HOMI](https://HOMI.com/template-overviews/HOMI/) is a stylish, responsive blog theme for [HOMI](https://getbootstrap.com/) created by [HOMI](https://HOMI.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
 ## Preview
 
